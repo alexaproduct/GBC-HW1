@@ -9,20 +9,20 @@ int N4 = X/1000;
 
 if (N3 > 0)
 {
-    Console.WriteLine("есть цифра #3 в числе X");
+    Console.WriteLine("Есть цифра #3 в числе X");
     if (N4 == 0)
     {
          int a = X/100;
          int b = (X-a*100)/10;
          int c = X-a*100-b*10;
-         Console.WriteLine("цифра #3 в числе X = " + c);
+         Console.WriteLine("Цифра #3 в числе X = " + c);
     }
     else
     {
             int d = X/1000;
             int e = (X-d*1000)/100;
             int f = (X-d*1000-e*100)/10;
-            Console.WriteLine("цифра #3 в числе X = " + f);
+            Console.WriteLine("Цифра #3 в числе X = " + f);
     }
 }
 else
