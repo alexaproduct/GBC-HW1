@@ -1,0 +1,15 @@
+/Users/alexa/Documents/GB/C#-HW1/HW1-Task8/bin/Debug/net7.0/HW1-Task8
+/Users/alexa/Documents/GB/C#-HW1/HW1-Task8/bin/Debug/net7.0/HW1-Task8.deps.json
+/Users/alexa/Documents/GB/C#-HW1/HW1-Task8/bin/Debug/net7.0/HW1-Task8.runtimeconfig.json
+/Users/alexa/Documents/GB/C#-HW1/HW1-Task8/bin/Debug/net7.0/HW1-Task8.dll
+/Users/alexa/Documents/GB/C#-HW1/HW1-Task8/bin/Debug/net7.0/HW1-Task8.pdb
+/Users/alexa/Documents/GB/C#-HW1/HW1-Task8/obj/Debug/net7.0/HW1-Task8.csproj.AssemblyReference.cache
+/Users/alexa/Documents/GB/C#-HW1/HW1-Task8/obj/Debug/net7.0/HW1-Task8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexa/Documents/GB/C#-HW1/HW1-Task8/obj/Debug/net7.0/HW1-Task8.AssemblyInfoInputs.cache
+/Users/alexa/Documents/GB/C#-HW1/HW1-Task8/obj/Debug/net7.0/HW1-Task8.AssemblyInfo.cs
+/Users/alexa/Documents/GB/C#-HW1/HW1-Task8/obj/Debug/net7.0/HW1-Task8.csproj.CoreCompileInputs.cache
+/Users/alexa/Documents/GB/C#-HW1/HW1-Task8/obj/Debug/net7.0/HW1-Task8.dll
+/Users/alexa/Documents/GB/C#-HW1/HW1-Task8/obj/Debug/net7.0/refint/HW1-Task8.dll
+/Users/alexa/Documents/GB/C#-HW1/HW1-Task8/obj/Debug/net7.0/HW1-Task8.pdb
+/Users/alexa/Documents/GB/C#-HW1/HW1-Task8/obj/Debug/net7.0/HW1-Task8.genruntimeconfig.cache
+/Users/alexa/Documents/GB/C#-HW1/HW1-Task8/obj/Debug/net7.0/ref/HW1-Task8.dll
